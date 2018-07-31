@@ -7,7 +7,7 @@
 * Testar a compatibilidade entre a aplicação Android em conjunto com a plataforme Arduino e conceitos da Computação em Nuvem.
 
 ### Como?
-#### O aplicativo irá trabalhar com os seguintes equipamentos:
+#### O aplicativo suporta versão 5.1 do Android ou superior, além disso, ele irá trabalhar com os seguintes equipamentos:
 * Arduino Uno
 * Protoboard
 * Jumpers
