@@ -7,4 +7,5 @@
 #### Acadêmico: Leonardo Morini RA: 00181511
 
 ### Link para o Trello:
+#### (https://trello.com/b/oqjvVCnF)
 
