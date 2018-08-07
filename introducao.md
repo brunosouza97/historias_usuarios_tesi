@@ -15,3 +15,4 @@
 * LEDs
 * Resistor
 * Speaker
+* Módulo Wi-Fi ESP8266 ESP-12E
