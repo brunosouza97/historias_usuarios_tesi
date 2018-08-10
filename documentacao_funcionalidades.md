@@ -25,7 +25,7 @@
     
  #### Cenário 2: falha na atuação (não reproduziu o som)
 
-* Enviar comandos para o Firebase:
+### Enviar comandos para o Firebase:
     SENDO o botão de play apertado
     POSSO enviar comandos para o Firebase
     PARA armazenar o histórico
