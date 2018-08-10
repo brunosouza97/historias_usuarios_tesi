@@ -10,7 +10,7 @@
 * 
 
 # Funcionalidades
-* Enviar comandos para o Arduino:
+### Enviar comandos para o Arduino:
     <p>SENDO o botão de play apertado</p>
     <p>POSSO enviar comandos para o Arduino</p>
     <p>PARA reproduzir o som</p>
