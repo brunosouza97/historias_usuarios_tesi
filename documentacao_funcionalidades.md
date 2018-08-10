@@ -11,9 +11,9 @@
 
 # Funcionalidades
 ### Enviar comandos para o Arduino:
-    <p>SENDO o botão de play apertado</p>
-    <p>POSSO enviar comandos para o Arduino</p>
-    <p>PARA reproduzir o som</p>
+    SENDO o botão de play apertado
+    POSSO enviar comandos para o Arduino
+    PARA reproduzir o som
  
  #### Cenário 1: atuar com sucesso (reproduziu o som)
     Dado que a activity do media player está aberta
