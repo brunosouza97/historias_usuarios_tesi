@@ -16,11 +16,11 @@
     <p>PARA reproduzir o som</p>
  
  #### Cenário 1: atuar com sucesso (reproduziu o som)
-    Dado que o media player está agindo conforme esperado
-    E o estado do som consta como tocando
+    Dado que a activity do media player está aberta
+    E o estado do som consta como pausado
     Quando atuo reproduzindo o som
-    Então o sistema transmite ao Arduino
-    E o equipamento recebe as informações
+    Então o sistema transmite comandos ao Arduino
+    E o equipamento recebe as informações dos comandos
     E reproduz o som
     
  #### Cenário 2: falha na atuação (não reproduziu o som)
