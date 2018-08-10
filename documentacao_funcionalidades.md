@@ -11,17 +11,17 @@
 
 # Funcionalidades
 * Enviar comandos para o Arduino:
-    SENDO o botão de play apertado
-    POSSO enviar comandos para o Arduino
-    PARA reproduzir o som
+    <p>SENDO o botão de play apertado</p>
+    <p>POSSO enviar comandos para o Arduino</p>
+    <p>PARA reproduzir o som</p>
  
  #### Cenário 1: atuar com sucesso (reproduziu o som)
-    **Dado** que o media player está agindo conforme esperado
-    **E** o estado do som consta como tocando
-    **Quando** atuo reproduzindo o som
-    **Então** o sistema transmite ao Arduino
-    **E** o equipamento recebe as informações
-    **E** reproduz o som
+    Dado que o media player está agindo conforme esperado
+    E o estado do som consta como tocando
+    Quando atuo reproduzindo o som
+    Então o sistema transmite ao Arduino
+    E o equipamento recebe as informações
+    E reproduz o som
     
  #### Cenário 2: falha na atuação (não reproduziu o som)
 
