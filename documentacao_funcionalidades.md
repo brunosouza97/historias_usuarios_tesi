@@ -52,3 +52,11 @@
     Então o sistema transmite comandos ao Firebase
     E o equipamento não recebe as informações dos comandos
     E o sistema atualiza o estado do equipamento
+
+#### Cenário 3: falha na comunicação
+    Dado que o equipamento está desconectado da rede
+    Quando atuo de qualquer forma no equipamento
+    Então o sistema transmite o comando para o equipamento
+    E mostra mensagem de time out porque o equipamento não respondeu
+    Ou imediatamente mostra erro porque não encontrou o equipamento na rede.
+
