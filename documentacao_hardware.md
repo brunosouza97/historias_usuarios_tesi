@@ -5,6 +5,7 @@
 * Mais informações a respeito da documentação do Android podem ser vistas no link a seguir: (https://developer.android.com/docs/).
 
 > IDE
+>
 > Preferiu-se desenvolver o projeto na IDE do Android Studio por ser uma das mais utilizadas para esse meio, além de sua facilidade. Para acessar mais informações sobre a mesma veja o link a seguir: (https://developer.android.com/studio/intro/?hl=pt-br).
 
 ### Arduino
