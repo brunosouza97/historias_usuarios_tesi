@@ -15,8 +15,6 @@
 >
 > O download da IDE pode ser feito neste link: (https://www.arduino.cc/en/Main/Software#). Mais informações de como iniciar nessa plataforma podem ser vistas aqui: (https://www.arduino.cc/en/Guide/HomePage). 
 
-![IDE](captura_arduino.png)
-
 ### Dispositivos Utilizados
 
 #### Placa Arduino:
