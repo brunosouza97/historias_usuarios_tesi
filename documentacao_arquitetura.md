@@ -15,5 +15,5 @@
 > Primeiros passos: (https://console.firebase.google.com/u/0/?hl=pt-br)
 >
 > Outros links: (https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-firebase-bd59bfd03f29)
-                (https://developer.android.com/distribute/best-practices/develop/build-with-firebase?hl=pt-br)
-                (https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible)
+>               (https://developer.android.com/distribute/best-practices/develop/build-with-firebase?hl=pt-br)
+>               (https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible)
