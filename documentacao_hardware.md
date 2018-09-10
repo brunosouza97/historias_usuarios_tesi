@@ -15,17 +15,17 @@
 >
 > O download da IDE pode ser feito neste link: (https://www.arduino.cc/en/Main/Software#). Mais informações de como iniciar nessa plataforma podem ser vistas aqui: (https://www.arduino.cc/en/Guide/HomePage). 
 
-![all text](./Desktop/captura_arduino.png)
+![IDE](captura_arduino.png)
 
 ### Dispositivos Utilizados
 
 #### Placa Arduino:
-![all text](https://cdn.tindiemedia.com/images/resize/luHxE0E-5xIy52K-ORA5JFnM1qA=/p/full-fit-in/2400x1600/i/99766/products/2017-09-19T06%3A53%3A24.256Z-UNO-R3-development-board-MEGA328P-CH340-CH340G-For-Arduino-UNO-R3-Without-USB-Cable.jpg)
+![Arduino Uno R3](https://cdn.tindiemedia.com/images/resize/luHxE0E-5xIy52K-ORA5JFnM1qA=/p/full-fit-in/2400x1600/i/99766/products/2017-09-19T06%3A53%3A24.256Z-UNO-R3-development-board-MEGA328P-CH340-CH340G-For-Arduino-UNO-R3-Without-USB-Cable.jpg)
 * Valor: R$ 26,60
 
 #### Protoboard:
 ![all text](https://www.ryndackcomponentes.com.br/270-large_default/protoboard-1660-pontos-hk-p200-hikari.jpg)
 
 #### Módulo Wifi:
-![all text](https://http2.mlstatic.com/modulo-wifi-esp8266-esp-12e-para-arduino-pic-raspberry-D_NQ_NP_962643-MLB27179922162_042018-F.jpg)
+![Módulo Wi-Fi Esp8266 Esp-12e](https://http2.mlstatic.com/modulo-wifi-esp8266-esp-12e-para-arduino-pic-raspberry-D_NQ_NP_962643-MLB27179922162_042018-F.jpg)
 * Valor: R$ 16,90
