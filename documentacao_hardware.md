@@ -11,6 +11,12 @@
 ### Arduino
 * Por ser uma plataforma de código aberto e uma das mais disseminadas atualmente, ela foi empregue para a realização desse projeto. Pode-se acessar mais informações acerca dessa plataforma no link: (https://www.arduino.cc/reference/pt/).
 
+> IDE
+>
+> O download da IDE pode ser feito neste link: (https://www.arduino.cc/en/Main/Software#). Mais informações de como iniciar nessa plataforma podem ser vistas aqui: (https://www.arduino.cc/en/Guide/HomePage). 
+
+![all text](./Desktop/captura_arduino.png)
+
 ### Dispositivos Utilizados
 
 #### Placa Arduino:
