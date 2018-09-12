@@ -19,4 +19,4 @@
 >               (https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible)
 
 ### Diagramação do Projeto
-![Diagrama](Diagrama de Arquitetura.pdf)
+![Diagrama](/Pictures/diagrama.png)
