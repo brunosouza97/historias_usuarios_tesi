@@ -1,0 +1,22 @@
+# Documentação de Arquitetura
+
+### Funcionamento do Projeto
+
+* O projeto tem por objetivo reproduzir música em 8 bits por meio de um Aplicativo para Android;
+* O aplicativo possuirá uma conexão com a placa do Arduino através de um módulo Wi-Fi;
+* O aplicativo também deverá ser capaz de enviar informações aos _databases_ do Firebase, onde este conterá dados a respeito da reprodução do áudio.
+
+### Principais Tecnologias Utilizadas
+
+* Firebase: preferiu-se utilizar esta ferramenta por ser bastante utilizada atualmente, além de ser de fácil utilização e ainda possui muitos recursos que tornam algumas tarefas muito mais simples. Mais informações a respeito do Firebase podem ser acessadas nos links a seguir:
+
+> Página inicial: (https://firebase.google.com/?hl=pt-br) 
+>
+> Primeiros passos: (https://console.firebase.google.com/u/0/?hl=pt-br)
+>
+> Outros links: (https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-firebase-bd59bfd03f29)
+>               (https://developer.android.com/distribute/best-practices/develop/build-with-firebase?hl=pt-br)
+>               (https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible)
+
+### Diagramação do Projeto
+![Diagrama](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20de%20Arquitetura.html#R7Vxtc6M2EP41%2FngZvfH2MfHlep3pdTrNzLX3UQeyrSk2Hozz9usrDNhGEkQmIHDTzCSxBQjY3Wf32dXCDM%2FXz7%2BkdLv6lkQsniEQPc%2Fw5xlCgQPE33zgpRhwiFsMLFMeFUPwNPDAX1k5WB633POI7Wo7ZkkSZ3xbHwyTzYaFWW2MpmnyVN9tkcT1s27pkikDDyGN1dG%2FeJStilEfeafxr4wvV9WZoRsUW9a02rm8k92KRsnT2RC%2Bn%2BF5miRZ8Wn9PGdxLrtKLsVxXxq2Hi8sZZvM5ABMI%2BREEfJDRikInE%2FlDI803pc3O0NuLOa6W2HxaZl%2F%2BnXDQ05TsdvtNuYhzfhjUu0lTnXasbzH7KUSXJrsNxHLzw3E5qcVz9jDlob51idhKflZsnUsvsHj0Y8szdhz4%2B3Bo9CEsbFkzbL0RexSHuAFN05xzEuliuPI00lzsFLH6kxrbjlGS2NZHmc%2FyVN8KEVqKF5kJN7ZHM9uP4fcUKrinMLy2TgSdYwFiocQKNYIVBbPJrrNQS%2B%2BhTHd7XhYlwp75tnfuUmKGym%2B%2Fai2bMTlnW3Kv%2F4ojbc4DYsUTyFJUlxKsk9D1m4QGU2XLGvYp0EjZ%2FJ2NOKuxlIW5witX6ZOB%2BUZ%2Fki4uIGjwj8hIGPIg9VINU1xi%2BWR5%2B5GmkyBoxvIUxWSUKY6GMbx5rvZCjH1bcl%2Bhr8YerRVsv6539nBXl14CGuhhzW24A8BPefKoVcxhzbokTGhB6FfV7ijoMUUeNCRoYeITeh5F9GKebIRIMmDIE4ONG6dc4002vPNtRANbB4XByEawZWDkxiA0xsXnLLKCewOT4LfnmxAeFaJ1Zm5PPC1YjECH1ndRnZZmvzD5kmcpGJkI3ArBhc8jqUhGvPlJjc0YQRMjN%2FlaBOpQ3xbbljzKIqbKGwdzWmSCcUl%2BVGfAtAPfiFQAKzNFIjGoNAQ%2BIVqIvb70SNOUi09aAEpmNKnF%2Fa00CPHgWdO9MxvHjcdnehhm0U3Omp6gZWcAIHObhQrLAeqlKnBjQod0pez3bb5DrvmC0cBqF%2F2kQI0XZ18BCTSEeJDcRVd%2FToh7iIE4CcgwPUDuDCv5lxHxkM8qxmPIs5rLzZ4qjfQm8xopAr7Mg9SKwTGpEqZzEEDkipFkmrs%2BAARHJO6%2BgKb8VtRgTskYE1BOR6YlFrtOwoIpB68nMAmlNTywUdPTxyrxFhRiG9ALP5k2zSJ9q88L%2BlQ8fstd393twJidJpVHL%2FRxm3UcBQh62o4spC%2Fs5QvhEBzGdfLZlMU8FnRUa1zjCJjTeWjc4hoyfAkTndJ%2BKhzuiaK38rpgjHDEPKJpHMXkM4ZHpYncxxlsp4yPAwldwCHz9d0CVsvhAUMUm9oclnTLdsiX%2FFA3TMMrDAs87Lte60R%2B8NbI7okyl9FBcHThxtrFQQ4%2BRLCiNlKPUi8I1eRpvKGXEtRVaxrM%2FhISWdd9mqe2FWNPraqRjXF%2Beg5pzduMQeq%2BdAHKKgp6yOetu3HmhaQnYRpOIpasJrR%2BCeQtNmdfSJQZ4SucXX7vWtdnhO0X5m0vxtcujZ2upfB2C3S5Voyu53TiArPcSivfOW77FDBwikPJ1pgUfqQfH2ToLX6SuUdpkt433AX49Ipr76cImJybxV8CDybfAqZtFKYNrLT3bZ4rmPBn3N09QEdV%2FLMLlJgo0sT%2B%2BhqV4U1iYWrt5DhjIkMSKROD4C64cJVG9yRNNXFYbRP4OAL4tR1tHEE%2Bt5Ye20cPcakYWr%2BU2GnQfdwI9crg8E6sbCSqAYy3%2ByfPWJdIU9trVok6fpAHu%2BFMU2TMqprcv7I6564jwpaSyLZvELSU2QsjGMsEGNQf2zE97tzxkAqwRk%2Fr3U5iOVmrdO5hgPxh2zRUipKgbat0lpFCf%2Ff3aO0LYNxi3zYpL%2FngcaPh9i2yZt7fuO7LP8fsdl1lEocV8qHqygzTswzeWBrzPQYItlEtV7DWopcYaHVRCuj%2FE5fOZ1kauQ48mOZGiu0lhmRwfpPLFXrKsfV2g5FgF4lduiZD258x4MElX%2FrDAsG6Aac%2FUjTmxK39pMgp%2FUko5Y7iElidWJpgG5TthM2UkaiaKKtpQTVow0euS5PTF6GcHsu26rEtJumgF1fen5T50jtibfPlyMYl5h6dKTj%2BkjiSWipWtEu9YMkUKxioARWPhPykWRBPSevpMc1AvMqZu8m9lasHvUNHJ7n3ED39ONpVXyxVXqwbdqj5%2BrZQj1i20LVxP6%2FX15x5eeCNeuI1vJ4ck1NbD0I34FTEr7J8ztfcnVM7SVvcmmEVB7Kxive1Odoe%2Bw4a0tK1YUC80DXHsNGff5GJiYEKBTING7J8CIVvAbmUmToSOXYqXsM19RYpXMTtkM38G7cRtJDoNfNJj0XtU0bSNMOxKXeaaHi6%2Bmdr8Xupxfn4vt%2FAQ%3D%3D)
