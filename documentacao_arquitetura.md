@@ -19,4 +19,4 @@
 >               (https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible)
 
 ### Diagramação do Projeto
-![Diagrama](/historias_usuarios_tesi/diagrama.png)
+![Diagrama](https://ibb.co/eKtxFU)
