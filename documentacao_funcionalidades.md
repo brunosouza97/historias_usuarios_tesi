@@ -6,9 +6,6 @@
 #### O que?
 * Este é um aplicativo que tem por função tocar música em 8 bits.
 
-#### Por que?
-* 
-
 # Funcionalidades
 ### Enviar comandos para o Arduino:
     SENDO o botão de play apertado
